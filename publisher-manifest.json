@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d75c8cd9d332c1bf26120510",
+  "owner": "vruqtumfy",
+  "repo": "page-bab69076df78cbc5407911b4",
+  "title": "萤火虫(.org)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bab69076df78cbc5407911b4",
+      "a": "萤火虫(.org)",
+      "b": "2027官方最新地址导航",
+      "entity": "萤火虫(.org)",
+      "brand": "萤火虫(.org)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a7dff59893083a8ab8b483926cf37562fa503461e142c2b0f4398d5c3dea5b6",
+      "content": {
+        "primary_entity": "萤火虫(.org)",
+        "keyword1": "萤火虫(.org)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端导入订阅，手机、电脑和路由器分别有适合的配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐连接更快",
+          "AI_DESCRIPTION": "，品牌定位海外网络加速，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并配备 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付费可享对应年价，例如旗舰版按年付仅需 ¥350/年。节点覆盖流媒体与游戏加速场景，客户端覆盖常见桌面与移动平台，可按设备类型配置订阅。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解萤火虫加速器的订阅结构。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版按月流量与设备数区分，按年付价格更低。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备，团队版支持 20 台设备，家庭与小型团队可按需选择。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供专属节点与优先支持，适合流媒体和游戏加速。",
+          "AI_FEATURE_TITLE_1": "套餐档位分明",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "周期灵活付费",
+          "AI_GUIDE_INTRO": "从了解套餐到完成客户端订阅配置，三个步骤即可开始使用萤火虫加速器。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_HERO_INTRO": "萤火虫(.org)提供海外网络加速订阅，包含基础版、旗舰版与团队版三档套餐。根据设备数量、月流量和流媒体或游戏需求选择合适档位，并按客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，多档套餐可选",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "按年付可享对应年价方案",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合多设备流媒体与游戏加速，团队版适合多人共享与大流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版之间选定档位。",
+          "AI_STEP_TEXT_2": "确认所用设备是否在套餐设备数范围内，并查看对应平台的配置要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成节点选择与连接配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐档位",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "萤火虫加速器套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "旗舰版流量从 100GB 提升至 300GB，设备数从 3 台增加到 5 台，并加入 IPLC 专线和全节点流媒体解锁，适合多设备、看重线路质量的使用者。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，提供 VIP 专属高带宽节点和企业定制路由，适合小团队或设备较多的工作场景。",
+          "AI_FAQ_QUESTION_3": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。超出数量可能影响连接，建议按实际终端数选择档位。",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_ANSWER_4": "月付适合短期或试用，年付价格更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。确定长期使用可优先年付。",
+          "AI_FAQ_QUESTION_5": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备系统对应的客户端，再按该客户端文档导入订阅信息。不同系统的操作位置不同，请以客户端内的说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nantourc.cn",
+    "host": "nantourc.cn"
+  },
+  "file_hashes": {
+    "index.html": "93b895b5fd211c449e2096edde18501a8056664f2058291a41695748edf6b7f2",
+    "sitemap.xml": "525335b7a4c9a4c6fc6845db063b70ee0dea8eafcdb72d7232bec0a061d286ab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "04b91dd1002cd9d703bb02adad1695438422b15607b4df4029880b2c1a2a9850",
+    "robots.txt": "f1f47265222b2aa25a664d74a46685b67e1be3973b6e2aceaf2affe74b5d3634",
+    "9d45c1756926819e77f823fcc8cb0409.txt": "f769938be49476291043531c3a1172182a1a33456eca4ca018b06dfc82e5a6d2"
+  },
+  "revision": "679d85fd619b12bfaeb752851f94620335b35cb4e4d756292b8c0a0925d32c4d"
+}
